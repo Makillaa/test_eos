@@ -1,0 +1,10 @@
+.idea
+venv
+__pycache__/
+*/__pycache__/
+*.py[cod]
+.pyc
+lib/**
+pyvenv.cfg
+.json
+.csv
